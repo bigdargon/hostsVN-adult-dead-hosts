@@ -1,0 +1,16 @@
+cli_testing:
+    autocontinue: true
+    chancy_tester: true
+    ci:
+        active: true
+        branch: master
+        command: hash dead_hosts_launcher && dead_hosts_launcher --save
+        commit_message: '[Autosave][Dead-Hosts::hostsVN-adult-dead-hosts]'
+        distribution_branch: master
+        end_command: hash dead_hosts_launcher && dead_hosts_launcher --end
+        end_commit_message: '[Final/Result][Dead-Hosts::hostsVN-adult-dead-hosts]'
+        max_exec_minutes: 20
+dns:
+    server:
+    - 45.90.28.0
+    - 45.90.30.0
