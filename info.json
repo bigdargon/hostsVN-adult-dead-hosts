@@ -6,8 +6,8 @@
     "finish_timestamp": 1668248296.597244,
     "last_download_datetime": "2020-12-29T19:32:02.781245",
     "last_download_timestamp": 1609270322.781245,
-    "latest_part_finish_datetime": "2022-11-12T10:18:16.597244",
-    "latest_part_finish_timestamp": 1668248296.597244,
+    "latest_part_finish_datetime": "2022-11-13T05:30:47.060260",
+    "latest_part_finish_timestamp": 1668317447.06026,
     "latest_part_start_datetime": "2020-12-29T19:32:02.781245",
     "latest_part_start_timestamp": 1609270322.781245,
     "live_update": true,
@@ -15,6 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts",
+    "repo": "hostsVN-adult-dead-hosts/hostsVN-adult-dead-hosts",
     "start_datetime": "2020-12-29T19:32:02.781245",
     "start_timestamp": 1609270322.781245
 }
