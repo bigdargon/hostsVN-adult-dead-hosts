@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 27 Nov 2022 10:20 UTC+7
-# Version: 2211271020
-# Blocked: 12.869 domains
+# Last modified: 28 Nov 2022 08:37 UTC+7
+# Version: 2211280837
+# Blocked: 12.871 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6175,6 +6175,7 @@
 0.0.0.0 manggaigoi.info
 0.0.0.0 manhwa.co
 0.0.0.0 manhwa24h.com
+0.0.0.0 manhwa24hs.com
 0.0.0.0 manhwaid.org
 0.0.0.0 manquynh.com
 0.0.0.0 manxoxo.com
@@ -7590,6 +7591,7 @@
 0.0.0.0 phimxx.xyz
 0.0.0.0 phimxxhd.me
 0.0.0.0 phimxxnx.net
+0.0.0.0 phimxxx.io
 0.0.0.0 phimxxx.link
 0.0.0.0 phimxxx.live
 0.0.0.0 phimxxx.lol
