@@ -18,3 +18,8 @@ dns:
     - 149.112.112.10
 lookup:
     collection: false
+proxy:
+    global:
+        http: null
+        https: null
+    rules: []
