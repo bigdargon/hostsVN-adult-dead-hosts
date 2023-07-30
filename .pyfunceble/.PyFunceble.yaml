@@ -154,3 +154,7 @@ user_agent:
     custom: null
     platform: linux
 verify_ssl_certificate: false
+rome
+    custom: null
+    platform: linux
+verify_ssl_certificate: false
