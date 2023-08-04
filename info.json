@@ -14,7 +14,7 @@
     "name": "hostsVN-adult-dead-hosts",
     "own_management": false,
     "ping": [],
-    "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/source/adult.txt",
+    "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts",
     "repo": "bigdargon/hostsVN-adult-dead-hosts",
     "start_datetime": "2020-12-29T19:32:02.781245",
     "start_timestamp": 1609270322.781245
