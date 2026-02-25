@@ -1,0 +1,24 @@
+{
+    "counter": {
+        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 42,
+        "Communigal Communications Ltd": 4,
+        "Dynadot Inc": 4,
+        "Dynadot LLC": 6,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
+        "Openprovider": 2,
+        "Spaceship, Inc.": 2,
+        "West263 International Limited": 8,
+        "total": 70
+    },
+    "percentage": {
+        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 60.0,
+        "Communigal Communications Ltd": 5.714285714285714,
+        "Dynadot Inc": 5.714285714285714,
+        "Dynadot LLC": 8.571428571428571,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.857142857142857,
+        "Openprovider": 2.857142857142857,
+        "Spaceship, Inc.": 2.857142857142857,
+        "West263 International Limited": 11.428571428571429,
+        "total": 100.0
+    }
+}
