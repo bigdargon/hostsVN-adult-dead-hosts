@@ -13,7 +13,7 @@
         "NETIM.com": 2,
         "Name.com, Inc.": 2,
         "NameCheap, Inc.": 16,
-        "NameSilo, LLC": 148,
+        "NameSilo, LLC": 146,
         "Namecheap": 6,
         "OVH": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
@@ -22,7 +22,7 @@
         "Spaceship, Inc.": 4,
         "TLD Registrar Solutions Ltd.": 2,
         "Tucows Domains Inc.": 2,
-        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 2,
+        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 4,
         "West263 International Limited": 2,
         "total": 254
     },
@@ -40,7 +40,7 @@
         "NETIM.com": 0.7874015748031497,
         "Name.com, Inc.": 0.7874015748031497,
         "NameCheap, Inc.": 6.299212598425197,
-        "NameSilo, LLC": 58.267716535433074,
+        "NameSilo, LLC": 57.48031496062992,
         "Namecheap": 2.3622047244094486,
         "OVH": 0.7874015748031497,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.5748031496062993,
@@ -49,7 +49,7 @@
         "Spaceship, Inc.": 1.5748031496062993,
         "TLD Registrar Solutions Ltd.": 0.7874015748031497,
         "Tucows Domains Inc.": 0.7874015748031497,
-        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 0.7874015748031497,
+        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 1.5748031496062993,
         "West263 International Limited": 0.7874015748031497,
         "total": 100.0
     }
