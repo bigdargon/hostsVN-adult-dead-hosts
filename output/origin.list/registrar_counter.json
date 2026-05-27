@@ -1,18 +1,32 @@
 {
     "counter": {
+        "Atak Domain Bilgi Teknolojileri A.Ş.": 2,
+        "CommuniGal Communication Ltd.": 2,
         "Communigal Communications Ltd": 18,
         "Dynadot LLC": 10,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 8,
         "GoDaddy.com, LLC": 2,
-        "NameSilo, LLC": 8,
+        "NameCheap, Inc.": 2,
+        "NameSilo, LLC": 10,
+        "Namecheap": 2,
+        "Porkbun": 2,
+        "Porkbun, LLC": 2,
         "West263 International Limited": 36,
-        "total": 74
+        "total": 96
     },
     "percentage": {
-        "Communigal Communications Ltd": 24.324324324324323,
-        "Dynadot LLC": 13.513513513513514,
-        "GoDaddy.com, LLC": 2.7027027027027026,
-        "NameSilo, LLC": 10.81081081081081,
-        "West263 International Limited": 48.648648648648646,
+        "Atak Domain Bilgi Teknolojileri A.Ş.": 2.0833333333333335,
+        "CommuniGal Communication Ltd.": 2.0833333333333335,
+        "Communigal Communications Ltd": 18.75,
+        "Dynadot LLC": 10.416666666666666,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 8.333333333333334,
+        "GoDaddy.com, LLC": 2.0833333333333335,
+        "NameCheap, Inc.": 2.0833333333333335,
+        "NameSilo, LLC": 10.416666666666666,
+        "Namecheap": 2.0833333333333335,
+        "Porkbun": 2.0833333333333335,
+        "Porkbun, LLC": 2.0833333333333335,
+        "West263 International Limited": 37.5,
         "total": 100.0
     }
 }
