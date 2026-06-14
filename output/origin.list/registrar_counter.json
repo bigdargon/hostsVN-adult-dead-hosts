@@ -1,7 +1,7 @@
 {
     "counter": {
         "Big Dipper Domains, LLC": 2,
-        "Cloudflare, Inc.": 2,
+        "Cloudflare, Inc.": 4,
         "CommuniGal Communication Ltd.": 32,
         "Danesco Trading Ltd.": 8,
         "Dynadot Inc": 16,
@@ -22,7 +22,6 @@
         "One.com": 2,
         "One.com A/S": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
-        "Porkbun": 2,
         "Porkbun LLC": 2,
         "Sav.com LLC": 2,
         "Spaceship, Inc.": 4,
@@ -35,7 +34,7 @@
     },
     "percentage": {
         "Big Dipper Domains, LLC": 0.8928571428571429,
-        "Cloudflare, Inc.": 0.8928571428571429,
+        "Cloudflare, Inc.": 1.7857142857142858,
         "CommuniGal Communication Ltd.": 14.285714285714286,
         "Danesco Trading Ltd.": 3.5714285714285716,
         "Dynadot Inc": 7.142857142857143,
@@ -56,7 +55,6 @@
         "One.com": 0.8928571428571429,
         "One.com A/S": 0.8928571428571429,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.7857142857142858,
-        "Porkbun": 0.8928571428571429,
         "Porkbun LLC": 0.8928571428571429,
         "Sav.com LLC": 0.8928571428571429,
         "Spaceship, Inc.": 1.7857142857142858,
