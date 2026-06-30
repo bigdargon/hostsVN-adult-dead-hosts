@@ -1,5 +1,6 @@
 {
     "counter": {
+        "101domain GRS Limited": 2,
         "Big Dipper Domains, LLC": 2,
         "Cloudflare, Inc.": 4,
         "CommuniGal Communication Ltd.": 14,
@@ -15,7 +16,7 @@
         "HOSTINGER operations, UAB": 4,
         "NAMECHEAP": 2,
         "NETIM SAS": 2,
-        "NameCheap, Inc.": 26,
+        "NameCheap, Inc.": 24,
         "NameSilo, LLC": 20,
         "Namecheap": 8,
         "OVH": 2,
@@ -31,6 +32,7 @@
         "total": 162
     },
     "percentage": {
+        "101domain GRS Limited": 1.2345679012345678,
         "Big Dipper Domains, LLC": 1.2345679012345678,
         "Cloudflare, Inc.": 2.4691358024691357,
         "CommuniGal Communication Ltd.": 8.641975308641975,
@@ -46,7 +48,7 @@
         "HOSTINGER operations, UAB": 2.4691358024691357,
         "NAMECHEAP": 1.2345679012345678,
         "NETIM SAS": 1.2345679012345678,
-        "NameCheap, Inc.": 16.049382716049383,
+        "NameCheap, Inc.": 14.814814814814815,
         "NameSilo, LLC": 12.345679012345679,
         "Namecheap": 4.938271604938271,
         "OVH": 1.2345679012345678,
