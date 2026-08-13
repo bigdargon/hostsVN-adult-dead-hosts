@@ -5,7 +5,7 @@
         "CommuniGal Communication Ltd.": 6,
         "Danesco Trading Ltd.": 6,
         "Devexpanse Ltd": 2,
-        "Dynadot Inc": 70,
+        "Dynadot Inc": 68,
         "Dynadot LLC": 8,
         "Dynadot, LLC": 2,
         "GMO Internet Group, Inc. d/b/a Onamae.com": 12,
@@ -30,7 +30,7 @@
         "Tucows Domains Inc.": 2,
         "TuringSign Inc. d/b/a Cosmotown": 2,
         "URL Solutions, Inc.": 2,
-        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 6,
+        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 8,
         "total": 272
     },
     "percentage": {
@@ -39,7 +39,7 @@
         "CommuniGal Communication Ltd.": 2.2058823529411766,
         "Danesco Trading Ltd.": 2.2058823529411766,
         "Devexpanse Ltd": 0.7352941176470589,
-        "Dynadot Inc": 25.735294117647058,
+        "Dynadot Inc": 25.0,
         "Dynadot LLC": 2.9411764705882355,
         "Dynadot, LLC": 0.7352941176470589,
         "GMO Internet Group, Inc. d/b/a Onamae.com": 4.411764705882353,
@@ -64,7 +64,7 @@
         "Tucows Domains Inc.": 0.7352941176470589,
         "TuringSign Inc. d/b/a Cosmotown": 0.7352941176470589,
         "URL Solutions, Inc.": 0.7352941176470589,
-        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 2.2058823529411766,
+        "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 2.9411764705882355,
         "total": 100.0
     }
 }
