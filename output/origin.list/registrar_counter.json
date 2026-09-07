@@ -13,7 +13,7 @@
         "GMO Internet Group, Inc. d/b/a Onamae.com": 22,
         "Gandi SAS": 2,
         "Gname.com Pte. Ltd.": 6,
-        "GoDaddy.com, LLC": 10,
+        "GoDaddy.com, LLC": 8,
         "HOSTINGER operations, UAB": 6,
         "Key-Systems GmbH": 2,
         "NAMECHEAP": 4,
@@ -34,6 +34,7 @@
         "TLD Registrar Solutions Ltd.": 2,
         "Tucows Domains Inc.": 2,
         "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 8,
+        "Virtualia LLC": 2,
         "total": 248
     },
     "percentage": {
@@ -50,7 +51,7 @@
         "GMO Internet Group, Inc. d/b/a Onamae.com": 8.870967741935484,
         "Gandi SAS": 0.8064516129032258,
         "Gname.com Pte. Ltd.": 2.4193548387096775,
-        "GoDaddy.com, LLC": 4.032258064516129,
+        "GoDaddy.com, LLC": 3.225806451612903,
         "HOSTINGER operations, UAB": 2.4193548387096775,
         "Key-Systems GmbH": 0.8064516129032258,
         "NAMECHEAP": 1.6129032258064515,
@@ -71,6 +72,7 @@
         "TLD Registrar Solutions Ltd.": 0.8064516129032258,
         "Tucows Domains Inc.": 0.8064516129032258,
         "VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság": 3.225806451612903,
+        "Virtualia LLC": 0.8064516129032258,
         "total": 100.0
     }
 }
